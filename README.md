@@ -23,4 +23,4 @@ If you use this dataset in your research, please credit the author.
 
 
 ### Results for prediction models
-![plot](.accuracy_models.png)
+![plot](./accuracy_models.png)
