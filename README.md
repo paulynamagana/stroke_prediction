@@ -20,3 +20,7 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 ## Acknowledgements
 (Confidential Source) - Use only for educational purposes
 If you use this dataset in your research, please credit the author.
+
+
+### Results for prediction models
+![plot](.accuracy_models.png)
